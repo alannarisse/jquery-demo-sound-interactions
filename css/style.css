@@ -37,4 +37,6 @@ body {
 	box-shadow: 5px 5px 18px -5px rgba(0,0,0,0.5);
 
 }
-
+.hide {
+	display:none;
+}
